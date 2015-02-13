@@ -1,0 +1,14 @@
+{
+  "name": "ExcelToJsonTOC",
+  "version": "1.0.0",
+  "description": "Excel to JSON tree",
+  "main": "excelToJSON.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wodory",
+  "license": "MIT",
+  "dependencies": {
+    "excel": "^0.1.1"
+  }
+}
